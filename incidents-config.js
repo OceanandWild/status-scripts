@@ -1,0 +1,1 @@
+let ecoConsoleIncident = true; // Cambiar a false para desactivar
